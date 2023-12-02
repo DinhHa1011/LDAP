@@ -1,0 +1,9 @@
+## Install and Config OpenLDAP and phpLDAPadmin on Ubuntu 20.04
+- Update packages
+``` 
+apt update
+```
+- Install và Config OpenLDAP server
+```
+apt install slapd ldap-utils
+```
